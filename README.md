@@ -2,117 +2,97 @@
 
 <p align="center">
   <strong>💻 Web Developer | 🎓 Student at IUH | 📍 Ho Chi Minh City</strong><br>
-  <img src="https://komarev.com/ghpvc/?username=nguyenthaibinhduong&label=Profile%20views&color=0e75b6&style=flat" alt="view counter"/>
+  <img src="https://komarev.com/ghpvc/?username=nguyenthaibinhduong&label=Profile%20views&color=38BDF8&style=flat-square" alt="profile views"/>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-🎓 4th-year Information Systems student at **Industrial University of Ho Chi Minh City (IUH)**  
-🔥 Passionate about **System Programming** and **Fullstack Web Development**  
-🎯 Looking for an **Internship as a Backend Developer** to contribute and grow  
-🛠️ Skilled in **Node.js (Express)**, **Laravel**, **PHP**, and **React**
+🎓 Final-year Information Systems student at **Industrial University of Ho Chi Minh City (IUH)**  
+🔥 Passionate about **System Programming**, **Fullstack Web Development**, and **Building Real-world Applications**  
+🎯 Seeking a **Backend Developer Internship** to apply skills and grow professionally  
+🛠️ Tech-savvy in **Node.js (Express)**, **Laravel**, **React**, and **MySQL**
 
 ---
 
-## 🧠 Tech Stack
+## 🚀 Tech Stack
 
-### 🚀 Programming Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🧩 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Laravel](https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
-### 🎨 Styling
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-6f42c1?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![PrimeVue](https://img.shields.io/badge/PrimeVue-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+| Languages | Frontend | Backend | Styling | Databases | DevOps & Tools |
+|----------|----------|---------|---------|-----------|----------------|
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white) ![Next](https://img.shields.io/badge/Next-black?style=flat&logo=next.js) | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-F72C1F?style=flat&logo=laravel&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 
 ---
 
-## 📈 GitHub Stats & Languages
+## 🌟 Highlight Projects
 
-<div align="center">
+### 🏥 High Medical – *Hospital Management System*
+📆 *Sep 2024 – Dec 2024*  
+🔗 [GitHub](https://github.com/nguyenthaibinhduong/QLBV.git) | 🌐 [Live Demo](http://high-medical.great-site.net/)
 
-![Duong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenthaibinhduong&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthaibinhduong&layout=compact&theme=tokyonight)
+> A complete hospital management platform with online doctor booking, staff and invoice tracking.
 
-</div>
-
----
-
-## 💼 Experience
-
-### 🏢 **Intern Web Developer** – *Minara Consulting*  
-📅 *Oct 2024 – May 2025*  
-- Built web applications using **Next.js**, **WordPress**, and **Laminas Framework**  
-- Participated in both product and outsourcing projects  
-- Involved in client communication, requirement analysis, and source code management
+🛠 Tech: **Laravel**, **MySQL**, **Bootstrap**  
+✨ Features:
+- Role-based access: Admin, Doctor, Staff, Patient  
+- Secure login with Email verification  
+- Scheduling & invoice management  
 
 ---
 
-## 🚀 Highlighted Project
+### 🗃️ Folder Drive Web
+🔗 [GitHub Repo](https://github.com/nguyenthaibinhduong/web-drive)
 
-### 🏥 **Hospital Management System – HIGH MEDICAL**
-📅 *Sep 2024 – Dec 2024*  
-A full-featured hospital management platform with online doctor booking.
+> Upload, browse, and manage files/folders in a drive-like UI. Implemented with recursive folder navigation.
 
-🔧 **Tech**: Laravel, Bootstrap, MySQL  
-🎯 **Key Features**:
-- Doctor-patient schedule management  
-- Role-based access (Admin, Doctor, Staff, Patient)  
-- Income/expense/invoice tracking  
-- Email verification, secure login
-
-🔗 [GitHub Repo](https://github.com/nguyenthaibinhduong/QLBV.git)  
-🌐 [Live Demo](http://high-medical.great-site.net/)
+🛠 Tech: **Node.js**, **Express**, **React**, **MySQL**
 
 ---
 
-## 🎓 Education
+### 🛒 Fruit Shop E-commerce
+🔗 [GitHub Repo](https://github.com/nguyenthaibinhduong/Fruitshop)
 
-📍 **Industrial University of Ho Chi Minh City (IUH)**  
-📚 Major: Information Systems | *Jul 2021 – Dec 2025*  
-✨ Strong background in OOP, Web Development, and Software Engineering
+> An e-commerce site with product categories, cart, orders, image gallery, and CMS features.
+
+🛠 Tech: **Laravel**, **Blade**, **Cloudinary**, **MySQL**
 
 ---
 
-## 📜 Certificates
+## 📈 GitHub Stats
 
-- 🏅 TOEIC Certificate – 520 (April 2024)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyenthaibinhduong&show_icons=true&theme=tokyonight&count_private=true" alt="stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthaibinhduong&layout=compact&theme=radical" alt="langs" height="160"/>
+</p>
+
+---
+
+## 🧑‍🎓 Education
+
+🎓 **Industrial University of Ho Chi Minh City (IUH)**  
+📅 *Jul 2021 – Dec 2025*  
+📘 Major: Information Systems  
+💡 Focus: Web Development, OOP, Software Engineering
+
+---
+
+## 🥇 Certificates
+
+- 🗣️ TOEIC Certificate – **520** *(April 2024)*
 
 ---
 
 ## 📬 Contact Me
 
-📧 Email: nguyenthaibinhduong182003@gmail.com  
-📱 Phone: 0395 659 769  
-📍 Address: District 12, Ho Chi Minh City  
-🔗 [GitHub Profile](https://github.com/nguyenthaibinhduong)
+- 📧 Email: nguyenthaibinhduong182003@gmail.com  
+- 📞 Phone: 0395 659 769  
+- 📍 Address: District 12, Ho Chi Minh City  
+- 💼 [GitHub](https://github.com/nguyenthaibinhduong)
 
 ---
 
-## 🎯 Interests
+## 💡 Fun Facts
 
-- 🤖 Exploring technology trends  
-- ⚽ Playing spo
+- 💻 I code almost every day!
+- ⚽ I enjoy football and team sports
+- 📚 Always curious about backend scalability and clean architecture
