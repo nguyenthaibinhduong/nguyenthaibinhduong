@@ -1,103 +1,118 @@
-<h1 align="center">👋 Hello! I'm Nguyen Thai Binh Duong</h1>
+<h1 align="center">👋 Hello! I'm <span style="color:#38BDF8">Nguyen Thai Binh Duong</span></h1>
 
 <p align="center">
-  <strong>💻 Web Developer | 🎓 Student at IUH | 📍 Ho Chi Minh City</strong>
+  <strong>💻 Web Developer | 🎓 Student at IUH | 📍 Ho Chi Minh City</strong><br>
+  <img src="https://komarev.com/ghpvc/?username=nguyenthaibinhduong&label=Profile%20views&color=0e75b6&style=flat" alt="view counter"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-🎓 I’m a 4th-year student majoring in **Information Systems** at Industrial University of Ho Chi Minh City (IUH).  
-🌱 I’m passionate about **System Programming** and **Web Development**.  
-🎯 Seeking an **internship opportunity as a Backend Developer** to apply my skills and gain real-world experience.  
-🛠️ I’m proficient in **Node.js (ExpressJS)**, **Laravel**, **PHP**, and **ReactJS**.
+🎓 4th-year Information Systems student at **Industrial University of Ho Chi Minh City (IUH)**  
+🔥 Passionate about **System Programming** and **Fullstack Web Development**  
+🎯 Looking for an **Internship as a Backend Developer** to contribute and grow  
+🛠️ Skilled in **Node.js (Express)**, **Laravel**, **PHP**, and **React**
 
 ---
 
-## 🧠 Skills
+## 🧠 Tech Stack
 
-### 👨‍💻 Programming Languages
-- PHP, JavaScript, HTML, CSS
+### 🚀 Programming Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Frameworks & Libraries
-- **Frontend**: ReactJs / NextJs, VueJs  
-- **Backend**: ExpressJs, NestJs, Laravel, Laminas  
-- **CMS**: WordPress  
-- **Styling**: Tailwind CSS, Bootstrap, MUI, PrimeVue
+### 🧩 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Laravel](https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### 🗃️ Databases
-- MySQL, SQL Server, MongoDB
+### 🎨 Styling
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-6f42c1?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![PrimeVue](https://img.shields.io/badge/PrimeVue-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
 
-### 🧰 Tools
-- Git, Docker, Postman, FTP, AI Tools
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### 🧠 Soft Skills
-- Teamwork, Time Management, Problem Solving
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🌍 Languages
-- English: Proficient in reading and understanding technical documents.
+---
+
+## 📈 GitHub Stats & Languages
+
+<div align="center">
+
+![Duong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenthaibinhduong&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthaibinhduong&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
 ## 💼 Experience
 
 ### 🏢 **Intern Web Developer** – *Minara Consulting*  
-🗓️ *Oct 2024 – May 2025*  
-- Worked on web development projects using **Next.js**, **WordPress**, and **Laminas Framework**  
-- Participated in both product-based and outsourcing models  
-- Gained experience with source code management, agile workflow, and real-world development  
-- Communicated directly with clients to gather requirements and implement solutions
+📅 *Oct 2024 – May 2025*  
+- Built web applications using **Next.js**, **WordPress**, and **Laminas Framework**  
+- Participated in both product and outsourcing projects  
+- Involved in client communication, requirement analysis, and source code management
 
 ---
 
-## 🔥 Highlighted Project
+## 🚀 Highlighted Project
 
-### 🏥 **Hospital Management System and Doctor Booking** – *HIGH MEDICAL*  
-🗓️ *Sep 2024 – Dec 2024*  
-A hospital management platform integrated with online booking to streamline medical operations.
+### 🏥 **Hospital Management System – HIGH MEDICAL**
+📅 *Sep 2024 – Dec 2024*  
+A full-featured hospital management platform with online doctor booking.
 
-**🔧 Technologies**: Laravel (PHP), Bootstrap, MySQL  
-**🌟 Key Features**:
-- Patient and doctor schedule management  
-- Online appointment booking  
-- Income, expense, invoicing, and payment handling  
-- Role-based access: Admin, Doctor, Staff, Patient  
-- Email verification on registration
+🔧 **Tech**: Laravel, Bootstrap, MySQL  
+🎯 **Key Features**:
+- Doctor-patient schedule management  
+- Role-based access (Admin, Doctor, Staff, Patient)  
+- Income/expense/invoice tracking  
+- Email verification, secure login
 
-🔗 **GitHub**: [QLBV Repository](https://github.com/nguyenthaibinhduong/QLBV.git)  
-🌐 **Live Demo**: [high-medical.great-site.net](http://high-medical.great-site.net/)
+🔗 [GitHub Repo](https://github.com/nguyenthaibinhduong/QLBV.git)  
+🌐 [Live Demo](http://high-medical.great-site.net/)
 
 ---
 
 ## 🎓 Education
 
-**📍 Industrial University of Ho Chi Minh City (IUH)**  
-📚 Information Systems | *Jul 2021 – Dec 2025*  
-📌 Focus: OOP, Web Technologies, Application Development
+📍 **Industrial University of Ho Chi Minh City (IUH)**  
+📚 Major: Information Systems | *Jul 2021 – Dec 2025*  
+✨ Strong background in OOP, Web Development, and Software Engineering
 
 ---
 
 ## 📜 Certificates
 
-- **TOEIC Certificate – 520 points** *(Apr 2024)*
+- 🏅 TOEIC Certificate – 520 (April 2024)
 
 ---
 
-## 📫 Contact
+## 📬 Contact Me
 
-- 📧 Email: nguyenthaibinhduong182003@gmail.com  
-- 📞 Phone: 0395 659 769  
-- 📍 Address: District 12, Ho Chi Minh City  
-- 🌐 [GitHub Profile](https://github.com/nguyenthaibinhduong)
-
----
-
-## ⚡ Fun Facts
-
-- 🤖 I love exploring new technologies  
-- ⚽ Enjoy playing sports in my free time
+📧 Email: nguyenthaibinhduong182003@gmail.com  
+📱 Phone: 0395 659 769  
+📍 Address: District 12, Ho Chi Minh City  
+🔗 [GitHub Profile](https://github.com/nguyenthaibinhduong)
 
 ---
 
-<p align="center">Thanks for visiting my GitHub profile! ✨</p>
+## 🎯 Interests
+
+- 🤖 Exploring technology trends  
+- ⚽ Playing spo
